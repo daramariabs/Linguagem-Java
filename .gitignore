@@ -24,3 +24,4 @@ hs_err_pid*
 aumento/.classpath
 aumento/.project
 aumento/.settings/org.eclipse.jdt.core.prefs
+aumento/src/Aumento.java
